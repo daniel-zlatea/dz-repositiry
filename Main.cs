@@ -2,6 +2,6 @@ public class Main
 {
 public static void Main()
 {
-	return 1;
+return 0;	
 }
 }
