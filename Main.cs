@@ -8,6 +8,9 @@ return 9;
 public static bool TakeMeTo(string locatiom)
 {
 	return true;
+	
+	return false;
+	
 }
 
 }
