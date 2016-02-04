@@ -11,6 +11,7 @@ public static bool TakeMeTo(string locatiom)
 	
 	return false;
 	
+	return true;
 }
 
 }
